@@ -13,6 +13,7 @@ for i in j_data:
     r.append(i['html_url'])
 print(r)
 
+
 # url = j_data.get('next')
 # result_data.extend(j_data.get('results'))
 
